@@ -1,5 +1,5 @@
-# AI-Enabled Low-Carbon Reconstruction in Conflict Zones: Engineering Scalable Solutions for Post-War Recovery \\ *A Case Study of the Gaza Strip*
-Master Thesis Repository
+# AI-Enabled Low-Carbon Reconstruction in Conflict Zones: Engineering Scalable Solutions for Post-War Recovery - *A Case Study of the Gaza Strip*
+This Repository is in support of a Masters of Science Thesis presented by Youssef Alan Franci at King's College London on August 4th 2025. Access to this repository is currenty restricted to assessors and relevant parties. 
 
 ## Data Collection and Processing
 ### 1. Geospatial Tiling and KML Export of Satellite Imagery
