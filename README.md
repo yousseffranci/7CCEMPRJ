@@ -1,5 +1,6 @@
-# 7CCEMPRJ
-MSc. Thesis Repository
+# AI-Enabled Low-Carbon Reconstruction in Conflict Zones: Engineering Scalable Solutions for Post-War Recovery
+# *A Case Study of the Gaza Strip*
+Master Thesis Repository
 
 ## Data Collection and Processing
 ### 1. Geospatial Tiling and KML Export of Satellite Imagery
