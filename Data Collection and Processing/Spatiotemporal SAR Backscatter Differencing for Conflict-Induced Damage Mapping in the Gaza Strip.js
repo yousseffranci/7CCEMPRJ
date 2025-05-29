@@ -2,7 +2,7 @@
 var gaza = ee.Geometry.Rectangle([34.19, 31.20, 34.58, 31.60]);
 
 // Set the target date
-var targetDate = '2025-02-18';
+var targetDate = '2023-08-02';
 var bufferDays = 3; // Slight buffer in case of no exact-date coverage
 
 // Define date range
@@ -30,15 +30,15 @@ var visParams = {
 
 // Center map and display the image
 Map.centerObject(gaza, 11);
-Map.addLayer(sarImage, visParams, 'SAR VV – Feb 18, 2025');
+Map.addLayer(sarImage, visParams, 'SAR VV – Aug 02, 2023');
 Map.addLayer(gaza, {color: 'red'}, 'Gaza Boundary');
 
 // Export the image to Google Drive for further analysis
 Export.image.toDrive({
   image: sarImage,
-  description: 'Gaza_SAR_VV_Feb18_2025',
+  description: 'Gaza_SAR_VV_Aug02_2023',
   folder: 'Gaza_Reconstruction',
-  fileNamePrefix: 'SAR_VV_Gaza_2025_02_18',
+  fileNamePrefix: 'SAR_VV_Gaza_2023_08_02',
   region: gaza,
   scale: 10,
   maxPixels: 1e13
