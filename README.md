@@ -1,5 +1,4 @@
-# AI-Enabled Low-Carbon Reconstruction in Conflict Zones: Engineering Scalable Solutions for Post-War Recovery
-# *A Case Study of the Gaza Strip*
+# AI-Enabled Low-Carbon Reconstruction in Conflict Zones: Engineering Scalable Solutions for Post-War Recovery \n *A Case Study of the Gaza Strip*
 Master Thesis Repository
 
 ## Data Collection and Processing
