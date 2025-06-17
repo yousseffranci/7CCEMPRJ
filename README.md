@@ -16,3 +16,6 @@ This repository contains a Google Earth Engine script designed for automated dam
 
 ### 3. Grid-Based Overpass Querying and KML Visualization for Gaza Urban Data
 This notebook automates the extraction of building footprint data from OpenStreetMap (OSM) for the Gaza Strip. It first generates a 30-zone spatial grid using KML for visualization and reference, then queries the Overpass API to extract building polygons for each zone. The output includes individual GeoJSON files per zone, suitable for use in QGIS, Google Earth Engine, or further geospatial analysis.
+
+### 4. Temporal Filtering of UNOSAT Damage Assessment Data
+This notebook processes UNOSAT multi-date building damage data for the Gaza Strip by generating a 30-zone spatial grid for systematic querying and visual reference, and extracting the observation date closest to February 18, 2025 for each damage point. It automates the identification of the temporally nearest assessment from multiple `SensorDate` fields and optionally filters results within a specified time window. Outputs include a QGIS-compatible KML grid and a GeoJSON file containing filtered damage points for focused temporal analysis.
