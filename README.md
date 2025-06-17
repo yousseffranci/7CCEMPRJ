@@ -13,3 +13,6 @@ Chapter 3
 
 ### 2. Spatiotemporal SAR Backscatter Differencing for Conflict-Induced Damage Mapping in the Gaza Strip
 This repository contains a Google Earth Engine script designed for automated damage detection in the Gaza Strip using Sentinel-1 synthetic aperture radar (SAR) imagery. The script compares pre- and post-conflict backscatter values to identify structural changes and debris accumulation resulting from armed conflict. Results are intended for use in AI-driven post-conflict reconstruction pipelines and sustainable rebuilding efforts.
+
+### 3. Grid-Based Overpass Querying and KML Visualization for Gaza Urban Data
+This notebook automates the extraction of building footprint data from OpenStreetMap (OSM) for the Gaza Strip. It first generates a 30-zone spatial grid using KML for visualization and reference, then queries the Overpass API to extract building polygons for each zone. The output includes individual GeoJSON files per zone, suitable for use in QGIS, Google Earth Engine, or further geospatial analysis.
