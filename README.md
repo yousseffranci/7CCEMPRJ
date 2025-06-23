@@ -19,3 +19,14 @@ This notebook automates the extraction of building footprint data from OpenStree
 
 ### 4. Temporal Filtering of UNOSAT Damage Assessment Data
 This notebook processes UNOSAT multi-date building damage data for the Gaza Strip by generating a 30-zone spatial grid for systematic querying and visual reference, and extracting the observation date closest to February 18, 2025 for each damage point. It automates the identification of the temporally nearest assessment from multiple `SensorDate` fields and optionally filters results within a specified time window. Outputs include a QGIS-compatible KML grid and a GeoJSON file containing filtered damage points for focused temporal analysis.
+
+### 5. Per-Building Synthetic Aperture Radar Feature Extraction for Conflict-Driven Damage Assessment Using Sentinel-1 and Google Earth Engine
+This Google Earth Engine (GEE) script extracts per-building synthetic aperture radar (SAR) features from Sentinel-1 data for conflict-driven damage assessment.
+It loads building footprints from a user-defined shapefile and computes pre- and post-event SAR backscatter statistics (VV and VH bands) for each building, based on two key periods aligned with Planet.com imagery:
+- **Pre-conflict**: August 2023
+- **Post-conflict**: February 2025
+For each building, the script calculates:
+- Mean VV and VH backscatter before and after the event
+- Delta values (`VV_delta`, `VH_delta`) representing change in structural response
+The final results are exported as a CSV to Google Drive for downstream machine learning or GIS-based reconstruction analysis.
+
