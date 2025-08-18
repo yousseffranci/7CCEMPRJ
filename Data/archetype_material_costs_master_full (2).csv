@@ -1,0 +1,1081 @@
+country,typology,material,mi_ton_per_m2,unit_price_usd_per_ton,markup,price_usd_per_ton_inflated,source
+Gaza,APT_low,cement,0.35,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,steel,0.08,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,sand,0.6,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,gravel,0.21,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,stone,0.16,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,wood,0.011,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,glass,0.008,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,aluminum,0.004,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,gypsum,0.011,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_low,plastics,0.002,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,cement,0.38,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,steel,0.1,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,sand,0.63,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,gravel,0.24,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,stone,0.18,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,wood,0.012,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,glass,0.009,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,aluminum,0.005,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,gypsum,0.012,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_mid,plastics,0.003,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,cement,0.41,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,steel,0.12,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,sand,0.66,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,gravel,0.26,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,stone,0.19,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,wood,0.013,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,glass,0.01,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,aluminum,0.005,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,gypsum,0.012,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,APT_high,plastics,0.003,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,cement,0.33,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,steel,0.07,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,sand,0.58,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,gravel,0.2,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,stone,0.15,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,wood,0.013,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,glass,0.007,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,aluminum,0.004,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,gypsum,0.011,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,SFH,plastics,0.002,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,cement,0.34,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,steel,0.09,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,sand,0.61,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,gravel,0.22,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,stone,0.17,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,wood,0.014,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,glass,0.009,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,aluminum,0.004,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,gypsum,0.011,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,VILLA,plastics,0.002,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,cement,0.36,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,steel,0.1,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,sand,0.62,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,gravel,0.23,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,stone,0.17,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,wood,0.014,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,glass,0.008,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,aluminum,0.004,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,gypsum,0.011,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,DUPLEX,plastics,0.002,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,cement,0.42,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,steel,0.15,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,sand,0.67,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,gravel,0.25,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,stone,0.2,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,wood,0.016,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,glass,0.012,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,aluminum,0.006,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,gypsum,0.014,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,COM,plastics,0.004,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,cement,0.37,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,steel,0.16,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,sand,0.61,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,gravel,0.21,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,stone,0.15,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,wood,0.015,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,glass,0.01,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,aluminum,0.008,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,gypsum,0.012,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,IND,plastics,0.004,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,cement,0.39,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,steel,0.11,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,sand,0.62,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,gravel,0.22,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,stone,0.17,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,wood,0.012,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,glass,0.008,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,aluminum,0.005,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,gypsum,0.013,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,EDU,plastics,0.003,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,cement,0.44,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,steel,0.13,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,sand,0.68,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,gravel,0.27,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,stone,0.21,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,wood,0.014,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,glass,0.011,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,aluminum,0.005,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,gypsum,0.014,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,HOS,plastics,0.003,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,cement,0.37,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,steel,0.09,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,sand,0.6,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,gravel,0.2,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,stone,0.22,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,wood,0.011,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,glass,0.009,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,aluminum,0.004,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,gypsum,0.011,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,MOSQUE,plastics,0.002,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,cement,0.0,130,19.0,2470.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,steel,0.0,820,7.0,5740.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,sand,0.0,18,2.5,45.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,gravel,0.0,22,2.5,55.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,stone,0.0,56,2.5,140.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,wood,0.0,390,3.5,1365.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,glass,0.0,1150,6.0,6900.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,aluminum,0.0,1850,5.0,9250.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,gypsum,0.0,50,3.0,150.0,Quartet OQR 2024 / Gaza Archetype file
+Gaza,PARK,plastics,0.0,1200,3.0,3600.0,Quartet OQR 2024 / Gaza Archetype file
+UAE,APT_low,cement,0.35,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,steel,0.08,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,sand,0.6,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,gravel,0.21,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,stone,0.16,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,wood,0.011,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,glass,0.008,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,aluminum,0.004,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,gypsum,0.011,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_low,plastics,0.002,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,cement,0.38,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,steel,0.1,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,sand,0.63,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,gravel,0.24,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,stone,0.18,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,wood,0.012,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,glass,0.009,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,aluminum,0.005,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,gypsum,0.012,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_mid,plastics,0.003,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,cement,0.41,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,steel,0.12,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,sand,0.66,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,gravel,0.26,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,stone,0.19,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,wood,0.013,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,glass,0.01,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,aluminum,0.005,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,gypsum,0.012,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,APT_high,plastics,0.003,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,cement,0.33,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,steel,0.07,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,sand,0.58,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,gravel,0.2,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,stone,0.15,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,wood,0.013,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,glass,0.007,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,aluminum,0.004,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,gypsum,0.011,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,SFH,plastics,0.002,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,cement,0.34,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,steel,0.09,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,sand,0.61,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,gravel,0.22,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,stone,0.17,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,wood,0.014,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,glass,0.009,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,aluminum,0.004,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,gypsum,0.011,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,VILLA,plastics,0.002,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,cement,0.36,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,steel,0.1,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,sand,0.62,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,gravel,0.23,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,stone,0.17,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,wood,0.014,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,glass,0.008,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,aluminum,0.004,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,gypsum,0.011,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,DUPLEX,plastics,0.002,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,cement,0.42,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,steel,0.15,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,sand,0.67,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,gravel,0.25,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,stone,0.2,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,wood,0.016,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,glass,0.012,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,aluminum,0.006,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,gypsum,0.014,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,COM,plastics,0.004,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,cement,0.37,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,steel,0.16,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,sand,0.61,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,gravel,0.21,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,stone,0.15,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,wood,0.015,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,glass,0.01,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,aluminum,0.008,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,gypsum,0.012,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,IND,plastics,0.004,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,cement,0.39,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,steel,0.11,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,sand,0.62,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,gravel,0.22,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,stone,0.17,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,wood,0.012,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,glass,0.008,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,aluminum,0.005,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,gypsum,0.013,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,EDU,plastics,0.003,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,cement,0.44,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,steel,0.13,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,sand,0.68,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,gravel,0.27,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,stone,0.21,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,wood,0.014,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,glass,0.011,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,aluminum,0.005,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,gypsum,0.014,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,HOS,plastics,0.003,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,cement,0.37,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,steel,0.09,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,sand,0.6,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,gravel,0.2,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,stone,0.22,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,wood,0.011,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,glass,0.009,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,aluminum,0.004,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,gypsum,0.011,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,MOSQUE,plastics,0.002,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,cement,0.0,130,1.05,136.5,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,steel,0.0,820,1.04,852.8000000000001,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,sand,0.0,18,1.03,18.54,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,gravel,0.0,22,1.02,22.44,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,stone,0.0,56,1.03,57.68,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,wood,0.0,390,1.1,429.00000000000006,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,glass,0.0,1150,1.1,1265.0,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,aluminum,0.0,1850,1.08,1998.0000000000002,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,gypsum,0.0,50,1.06,53.0,6_UAE_ArchetypeParameters.xlsx
+UAE,PARK,plastics,0.0,1200,1.08,1296.0,6_UAE_ArchetypeParameters.xlsx
+Qatar,APT_low,cement,0.35,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,steel,0.08,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,sand,0.6,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,gravel,0.21,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,stone,0.16,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,wood,0.011,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,glass,0.008,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,aluminum,0.004,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,gypsum,0.011,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_low,plastics,0.002,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,cement,0.38,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,steel,0.1,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,sand,0.63,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,gravel,0.24,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,stone,0.18,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,wood,0.012,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,glass,0.009,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,aluminum,0.005,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,gypsum,0.012,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_mid,plastics,0.003,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,cement,0.41,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,steel,0.12,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,sand,0.66,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,gravel,0.26,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,stone,0.19,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,wood,0.013,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,glass,0.01,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,aluminum,0.005,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,gypsum,0.012,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,APT_high,plastics,0.003,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,cement,0.33,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,steel,0.07,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,sand,0.58,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,gravel,0.2,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,stone,0.15,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,wood,0.013,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,glass,0.007,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,aluminum,0.004,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,gypsum,0.011,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,SFH,plastics,0.002,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,cement,0.34,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,steel,0.09,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,sand,0.61,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,gravel,0.22,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,stone,0.17,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,wood,0.014,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,glass,0.009,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,aluminum,0.004,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,gypsum,0.011,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,VILLA,plastics,0.002,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,cement,0.36,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,steel,0.1,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,sand,0.62,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,gravel,0.23,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,stone,0.17,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,wood,0.014,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,glass,0.008,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,aluminum,0.004,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,gypsum,0.011,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,DUPLEX,plastics,0.002,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,cement,0.42,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,steel,0.15,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,sand,0.67,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,gravel,0.25,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,stone,0.2,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,wood,0.016,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,glass,0.012,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,aluminum,0.006,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,gypsum,0.014,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,COM,plastics,0.004,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,cement,0.37,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,steel,0.16,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,sand,0.61,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,gravel,0.21,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,stone,0.15,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,wood,0.015,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,glass,0.01,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,aluminum,0.008,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,gypsum,0.012,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,IND,plastics,0.004,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,cement,0.39,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,steel,0.11,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,sand,0.62,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,gravel,0.22,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,stone,0.17,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,wood,0.012,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,glass,0.008,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,aluminum,0.005,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,gypsum,0.013,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,EDU,plastics,0.003,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,cement,0.44,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,steel,0.13,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,sand,0.68,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,gravel,0.27,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,stone,0.21,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,wood,0.014,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,glass,0.011,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,aluminum,0.005,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,gypsum,0.014,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,HOS,plastics,0.003,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,cement,0.37,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,steel,0.09,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,sand,0.6,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,gravel,0.2,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,stone,0.22,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,wood,0.011,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,glass,0.009,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,aluminum,0.004,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,gypsum,0.011,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,MOSQUE,plastics,0.002,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,cement,0.0,130,1.09,141.70000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,steel,0.0,820,1.1,902.0000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,sand,0.0,18,1.08,19.44,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,gravel,0.0,22,1.07,23.540000000000003,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,stone,0.0,56,1.09,61.040000000000006,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,wood,0.0,390,1.15,448.49999999999994,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,glass,0.0,1150,1.12,1288.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,aluminum,0.0,1850,1.1,2035.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,gypsum,0.0,50,1.1,55.00000000000001,5_Qatar_ArchetypeParameters.xlsx
+Qatar,PARK,plastics,0.0,1200,1.12,1344.0000000000002,5_Qatar_ArchetypeParameters.xlsx
+Kuwait,APT_low,cement,0.35,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,steel,0.08,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,sand,0.6,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,gravel,0.21,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,stone,0.16,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,wood,0.011,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,glass,0.008,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,aluminum,0.004,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,gypsum,0.011,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_low,plastics,0.002,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,cement,0.38,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,steel,0.1,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,sand,0.63,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,gravel,0.24,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,stone,0.18,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,wood,0.012,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,glass,0.009,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,aluminum,0.005,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,gypsum,0.012,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_mid,plastics,0.003,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,cement,0.41,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,steel,0.12,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,sand,0.66,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,gravel,0.26,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,stone,0.19,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,wood,0.013,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,glass,0.01,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,aluminum,0.005,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,gypsum,0.012,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,APT_high,plastics,0.003,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,cement,0.33,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,steel,0.07,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,sand,0.58,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,gravel,0.2,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,stone,0.15,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,wood,0.013,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,glass,0.007,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,aluminum,0.004,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,gypsum,0.011,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,SFH,plastics,0.002,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,cement,0.34,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,steel,0.09,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,sand,0.61,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,gravel,0.22,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,stone,0.17,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,wood,0.014,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,glass,0.009,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,aluminum,0.004,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,gypsum,0.011,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,VILLA,plastics,0.002,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,cement,0.36,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,steel,0.1,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,sand,0.62,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,gravel,0.23,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,stone,0.17,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,wood,0.014,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,glass,0.008,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,aluminum,0.004,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,gypsum,0.011,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,DUPLEX,plastics,0.002,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,cement,0.42,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,steel,0.15,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,sand,0.67,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,gravel,0.25,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,stone,0.2,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,wood,0.016,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,glass,0.012,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,aluminum,0.006,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,gypsum,0.014,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,COM,plastics,0.004,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,cement,0.37,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,steel,0.16,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,sand,0.61,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,gravel,0.21,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,stone,0.15,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,wood,0.015,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,glass,0.01,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,aluminum,0.008,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,gypsum,0.012,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,IND,plastics,0.004,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,cement,0.39,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,steel,0.11,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,sand,0.62,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,gravel,0.22,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,stone,0.17,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,wood,0.012,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,glass,0.008,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,aluminum,0.005,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,gypsum,0.013,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,EDU,plastics,0.003,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,cement,0.44,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,steel,0.13,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,sand,0.68,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,gravel,0.27,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,stone,0.21,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,wood,0.014,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,glass,0.011,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,aluminum,0.005,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,gypsum,0.014,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,HOS,plastics,0.003,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,cement,0.37,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,steel,0.09,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,sand,0.6,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,gravel,0.2,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,stone,0.22,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,wood,0.011,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,glass,0.009,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,aluminum,0.004,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,gypsum,0.011,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,MOSQUE,plastics,0.002,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,cement,0.0,130,1.13,146.89999999999998,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,steel,0.0,820,1.11,910.2,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,sand,0.0,18,1.08,19.44,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,gravel,0.0,22,1.09,23.98,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,stone,0.0,56,1.12,62.720000000000006,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,wood,0.0,390,1.12,436.80000000000007,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,glass,0.0,1150,1.12,1288.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,aluminum,0.0,1850,1.12,2072.0,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,gypsum,0.0,50,1.12,56.00000000000001,3_Kuwait_ArchetypeParameters.xlsx
+Kuwait,PARK,plastics,0.0,1200,1.12,1344.0000000000002,3_Kuwait_ArchetypeParameters.xlsx
+SAU,APT_low,cement,0.35,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,steel,0.08,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,sand,0.6,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,gravel,0.21,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,stone,0.16,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,wood,0.011,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,glass,0.008,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,aluminum,0.004,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,gypsum,0.011,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_low,plastics,0.002,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,cement,0.38,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,steel,0.1,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,sand,0.63,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,gravel,0.24,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,stone,0.18,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,wood,0.012,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,glass,0.009,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,aluminum,0.005,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,gypsum,0.012,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_mid,plastics,0.003,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,cement,0.41,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,steel,0.12,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,sand,0.66,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,gravel,0.26,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,stone,0.19,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,wood,0.013,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,glass,0.01,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,aluminum,0.005,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,gypsum,0.012,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,APT_high,plastics,0.003,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,cement,0.33,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,steel,0.07,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,sand,0.58,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,gravel,0.2,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,stone,0.15,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,wood,0.013,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,glass,0.007,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,aluminum,0.004,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,gypsum,0.011,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,SFH,plastics,0.002,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,cement,0.34,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,steel,0.09,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,sand,0.61,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,gravel,0.22,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,stone,0.17,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,wood,0.014,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,glass,0.009,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,aluminum,0.004,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,gypsum,0.011,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,VILLA,plastics,0.002,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,cement,0.36,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,steel,0.1,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,sand,0.62,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,gravel,0.23,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,stone,0.17,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,wood,0.014,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,glass,0.008,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,aluminum,0.004,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,gypsum,0.011,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,DUPLEX,plastics,0.002,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,cement,0.42,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,steel,0.15,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,sand,0.67,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,gravel,0.25,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,stone,0.2,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,wood,0.016,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,glass,0.012,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,aluminum,0.006,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,gypsum,0.014,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,COM,plastics,0.004,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,cement,0.37,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,steel,0.16,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,sand,0.61,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,gravel,0.21,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,stone,0.15,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,wood,0.015,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,glass,0.01,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,aluminum,0.008,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,gypsum,0.012,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,IND,plastics,0.004,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,cement,0.39,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,steel,0.11,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,sand,0.62,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,gravel,0.22,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,stone,0.17,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,wood,0.012,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,glass,0.008,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,aluminum,0.005,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,gypsum,0.013,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,EDU,plastics,0.003,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,cement,0.44,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,steel,0.13,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,sand,0.68,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,gravel,0.27,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,stone,0.21,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,wood,0.014,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,glass,0.011,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,aluminum,0.005,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,gypsum,0.014,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,HOS,plastics,0.003,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,cement,0.37,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,steel,0.09,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,sand,0.6,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,gravel,0.2,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,stone,0.22,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,wood,0.011,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,glass,0.009,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,aluminum,0.004,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,gypsum,0.011,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,MOSQUE,plastics,0.002,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,cement,0.0,130,1.02,132.6,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,steel,0.0,820,1.05,861.0,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,sand,0.0,18,1.01,18.18,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,gravel,0.0,22,1.01,22.22,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,stone,0.0,56,1.01,56.56,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,wood,0.0,390,1.09,425.1,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,glass,0.0,1150,1.08,1242.0,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,aluminum,0.0,1850,1.1,2035.0000000000002,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,gypsum,0.0,50,1.09,54.50000000000001,2_SAU_ArchetypeParameters.xlsx
+SAU,PARK,plastics,0.0,1200,1.09,1308.0,2_SAU_ArchetypeParameters.xlsx
+Bahrain,APT_low,cement,0.35,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,steel,0.08,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,sand,0.6,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,gravel,0.21,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,stone,0.16,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,wood,0.011,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,glass,0.008,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,aluminum,0.004,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,gypsum,0.011,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_low,plastics,0.002,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,cement,0.38,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,steel,0.1,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,sand,0.63,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,gravel,0.24,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,stone,0.18,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,wood,0.012,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,glass,0.009,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,aluminum,0.005,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,gypsum,0.012,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_mid,plastics,0.003,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,cement,0.41,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,steel,0.12,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,sand,0.66,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,gravel,0.26,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,stone,0.19,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,wood,0.013,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,glass,0.01,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,aluminum,0.005,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,gypsum,0.012,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,APT_high,plastics,0.003,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,cement,0.33,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,steel,0.07,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,sand,0.58,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,gravel,0.2,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,stone,0.15,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,wood,0.013,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,glass,0.007,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,aluminum,0.004,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,gypsum,0.011,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,SFH,plastics,0.002,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,cement,0.34,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,steel,0.09,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,sand,0.61,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,gravel,0.22,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,stone,0.17,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,wood,0.014,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,glass,0.009,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,aluminum,0.004,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,gypsum,0.011,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,VILLA,plastics,0.002,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,cement,0.36,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,steel,0.1,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,sand,0.62,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,gravel,0.23,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,stone,0.17,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,wood,0.014,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,glass,0.008,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,aluminum,0.004,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,gypsum,0.011,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,DUPLEX,plastics,0.002,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,cement,0.42,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,steel,0.15,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,sand,0.67,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,gravel,0.25,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,stone,0.2,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,wood,0.016,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,glass,0.012,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,aluminum,0.006,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,gypsum,0.014,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,COM,plastics,0.004,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,cement,0.37,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,steel,0.16,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,sand,0.61,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,gravel,0.21,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,stone,0.15,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,wood,0.015,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,glass,0.01,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,aluminum,0.008,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,gypsum,0.012,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,IND,plastics,0.004,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,cement,0.39,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,steel,0.11,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,sand,0.62,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,gravel,0.22,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,stone,0.17,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,wood,0.012,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,glass,0.008,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,aluminum,0.005,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,gypsum,0.013,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,EDU,plastics,0.003,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,cement,0.44,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,steel,0.13,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,sand,0.68,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,gravel,0.27,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,stone,0.21,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,wood,0.014,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,glass,0.011,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,aluminum,0.005,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,gypsum,0.014,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,HOS,plastics,0.003,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,cement,0.37,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,steel,0.09,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,sand,0.6,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,gravel,0.2,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,stone,0.22,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,wood,0.011,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,glass,0.009,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,aluminum,0.004,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,gypsum,0.011,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,MOSQUE,plastics,0.002,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,cement,0.0,130,1.08,140.4,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,steel,0.0,820,1.09,893.8000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,sand,0.0,18,1.05,18.900000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,gravel,0.0,22,1.06,23.32,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,stone,0.0,56,1.07,59.92,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,wood,0.0,390,1.09,425.1,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,glass,0.0,1150,1.09,1253.5,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,aluminum,0.0,1850,1.1,2035.0000000000002,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,gypsum,0.0,50,1.1,55.00000000000001,4_Bahrain_ArchetypeParameters.xlsx
+Bahrain,PARK,plastics,0.0,1200,1.09,1308.0,4_Bahrain_ArchetypeParameters.xlsx
+Egypt,APT_low,cement,0.35,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,APT_low,steel,0.08,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,APT_low,sand,0.6,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,APT_low,gravel,0.21,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,APT_low,stone,0.16,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,APT_low,wood,0.011,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,APT_low,glass,0.008,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,APT_low,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,APT_low,gypsum,0.011,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,APT_low,plastics,0.002,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,APT_mid,cement,0.38,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,APT_mid,steel,0.1,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,APT_mid,sand,0.63,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,APT_mid,gravel,0.24,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,APT_mid,stone,0.18,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,APT_mid,wood,0.012,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,APT_mid,glass,0.009,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,APT_mid,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,APT_mid,gypsum,0.012,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,APT_mid,plastics,0.003,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,APT_high,cement,0.41,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,APT_high,steel,0.12,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,APT_high,sand,0.66,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,APT_high,gravel,0.26,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,APT_high,stone,0.19,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,APT_high,wood,0.013,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,APT_high,glass,0.01,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,APT_high,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,APT_high,gypsum,0.012,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,APT_high,plastics,0.003,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,SFH,cement,0.33,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,SFH,steel,0.07,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,SFH,sand,0.58,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,SFH,gravel,0.2,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,SFH,stone,0.15,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,SFH,wood,0.013,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,SFH,glass,0.007,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,SFH,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,SFH,gypsum,0.011,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,SFH,plastics,0.002,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,VILLA,cement,0.34,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,VILLA,steel,0.09,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,VILLA,sand,0.61,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,VILLA,gravel,0.22,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,VILLA,stone,0.17,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,VILLA,wood,0.014,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,VILLA,glass,0.009,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,VILLA,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,VILLA,gypsum,0.011,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,VILLA,plastics,0.002,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,DUPLEX,cement,0.36,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,DUPLEX,steel,0.1,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,DUPLEX,sand,0.62,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,DUPLEX,gravel,0.23,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,DUPLEX,stone,0.17,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,DUPLEX,wood,0.014,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,DUPLEX,glass,0.008,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,DUPLEX,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,DUPLEX,gypsum,0.011,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,DUPLEX,plastics,0.002,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,COM,cement,0.42,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,COM,steel,0.15,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,COM,sand,0.67,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,COM,gravel,0.25,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,COM,stone,0.2,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,COM,wood,0.016,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,COM,glass,0.012,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,COM,aluminum,0.006,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,COM,gypsum,0.014,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,COM,plastics,0.004,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,IND,cement,0.37,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,IND,steel,0.16,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,IND,sand,0.61,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,IND,gravel,0.21,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,IND,stone,0.15,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,IND,wood,0.015,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,IND,glass,0.01,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,IND,aluminum,0.008,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,IND,gypsum,0.012,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,IND,plastics,0.004,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,EDU,cement,0.39,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,EDU,steel,0.11,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,EDU,sand,0.62,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,EDU,gravel,0.22,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,EDU,stone,0.17,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,EDU,wood,0.012,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,EDU,glass,0.008,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,EDU,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,EDU,gypsum,0.013,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,EDU,plastics,0.003,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,HOS,cement,0.44,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,HOS,steel,0.13,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,HOS,sand,0.68,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,HOS,gravel,0.27,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,HOS,stone,0.21,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,HOS,wood,0.014,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,HOS,glass,0.011,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,HOS,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,HOS,gypsum,0.014,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,HOS,plastics,0.003,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,MOSQUE,cement,0.37,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,MOSQUE,steel,0.09,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,MOSQUE,sand,0.6,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,MOSQUE,gravel,0.2,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,MOSQUE,stone,0.22,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,MOSQUE,wood,0.011,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,MOSQUE,glass,0.009,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,MOSQUE,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,MOSQUE,gypsum,0.011,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,MOSQUE,plastics,0.002,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Egypt,PARK,cement,0.0,130,1.15,149.5,RASMI Fishman et al. 2024
+Egypt,PARK,steel,0.0,820,1.2,984.0,RASMI Fishman et al. 2024
+Egypt,PARK,sand,0.0,18,1.1,19.8,RASMI Fishman et al. 2024
+Egypt,PARK,gravel,0.0,22,1.12,24.64,RASMI Fishman et al. 2024
+Egypt,PARK,stone,0.0,56,1.11,62.160000000000004,RASMI Fishman et al. 2024
+Egypt,PARK,wood,0.0,390,1.2,468.0,RASMI Fishman et al. 2024
+Egypt,PARK,glass,0.0,1150,1.18,1357.0,RASMI Fishman et al. 2024
+Egypt,PARK,aluminum,0.0,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Egypt,PARK,gypsum,0.0,50,1.13,56.49999999999999,RASMI Fishman et al. 2024
+Egypt,PARK,plastics,0.0,1200,1.13,1355.9999999999998,RASMI Fishman et al. 2024
+Jordan,APT_low,cement,0.35,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,APT_low,steel,0.08,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,APT_low,sand,0.6,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,APT_low,gravel,0.21,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,APT_low,stone,0.16,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,APT_low,wood,0.011,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,APT_low,glass,0.008,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,APT_low,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,APT_low,gypsum,0.011,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,APT_low,plastics,0.002,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,APT_mid,cement,0.38,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,APT_mid,steel,0.1,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,APT_mid,sand,0.63,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,APT_mid,gravel,0.24,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,APT_mid,stone,0.18,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,APT_mid,wood,0.012,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,APT_mid,glass,0.009,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,APT_mid,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,APT_mid,gypsum,0.012,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,APT_mid,plastics,0.003,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,APT_high,cement,0.41,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,APT_high,steel,0.12,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,APT_high,sand,0.66,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,APT_high,gravel,0.26,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,APT_high,stone,0.19,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,APT_high,wood,0.013,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,APT_high,glass,0.01,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,APT_high,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,APT_high,gypsum,0.012,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,APT_high,plastics,0.003,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,SFH,cement,0.33,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,SFH,steel,0.07,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,SFH,sand,0.58,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,SFH,gravel,0.2,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,SFH,stone,0.15,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,SFH,wood,0.013,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,SFH,glass,0.007,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,SFH,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,SFH,gypsum,0.011,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,SFH,plastics,0.002,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,VILLA,cement,0.34,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,VILLA,steel,0.09,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,VILLA,sand,0.61,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,VILLA,gravel,0.22,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,VILLA,stone,0.17,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,VILLA,wood,0.014,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,VILLA,glass,0.009,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,VILLA,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,VILLA,gypsum,0.011,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,VILLA,plastics,0.002,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,DUPLEX,cement,0.36,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,DUPLEX,steel,0.1,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,DUPLEX,sand,0.62,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,DUPLEX,gravel,0.23,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,DUPLEX,stone,0.17,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,DUPLEX,wood,0.014,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,DUPLEX,glass,0.008,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,DUPLEX,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,DUPLEX,gypsum,0.011,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,DUPLEX,plastics,0.002,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,COM,cement,0.42,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,COM,steel,0.15,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,COM,sand,0.67,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,COM,gravel,0.25,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,COM,stone,0.2,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,COM,wood,0.016,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,COM,glass,0.012,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,COM,aluminum,0.006,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,COM,gypsum,0.014,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,COM,plastics,0.004,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,IND,cement,0.37,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,IND,steel,0.16,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,IND,sand,0.61,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,IND,gravel,0.21,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,IND,stone,0.15,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,IND,wood,0.015,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,IND,glass,0.01,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,IND,aluminum,0.008,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,IND,gypsum,0.012,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,IND,plastics,0.004,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,EDU,cement,0.39,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,EDU,steel,0.11,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,EDU,sand,0.62,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,EDU,gravel,0.22,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,EDU,stone,0.17,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,EDU,wood,0.012,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,EDU,glass,0.008,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,EDU,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,EDU,gypsum,0.013,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,EDU,plastics,0.003,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,HOS,cement,0.44,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,HOS,steel,0.13,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,HOS,sand,0.68,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,HOS,gravel,0.27,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,HOS,stone,0.21,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,HOS,wood,0.014,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,HOS,glass,0.011,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,HOS,aluminum,0.005,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,HOS,gypsum,0.014,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,HOS,plastics,0.003,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,MOSQUE,cement,0.37,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,MOSQUE,steel,0.09,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,MOSQUE,sand,0.6,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,MOSQUE,gravel,0.2,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,MOSQUE,stone,0.22,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,MOSQUE,wood,0.011,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,MOSQUE,glass,0.009,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,MOSQUE,aluminum,0.004,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,MOSQUE,gypsum,0.011,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,MOSQUE,plastics,0.002,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Jordan,PARK,cement,0.0,130,1.18,153.4,RASMI Fishman et al. 2024
+Jordan,PARK,steel,0.0,820,1.19,975.8,RASMI Fishman et al. 2024
+Jordan,PARK,sand,0.0,18,1.13,20.339999999999996,RASMI Fishman et al. 2024
+Jordan,PARK,gravel,0.0,22,1.16,25.52,RASMI Fishman et al. 2024
+Jordan,PARK,stone,0.0,56,1.14,63.839999999999996,RASMI Fishman et al. 2024
+Jordan,PARK,wood,0.0,390,1.17,456.29999999999995,RASMI Fishman et al. 2024
+Jordan,PARK,glass,0.0,1150,1.15,1322.5,RASMI Fishman et al. 2024
+Jordan,PARK,aluminum,0.0,1850,1.15,2127.5,RASMI Fishman et al. 2024
+Jordan,PARK,gypsum,0.0,50,1.12,56.00000000000001,RASMI Fishman et al. 2024
+Jordan,PARK,plastics,0.0,1200,1.12,1344.0000000000002,RASMI Fishman et al. 2024
+Lebanon,APT_low,cement,0.35,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,APT_low,steel,0.08,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,APT_low,sand,0.6,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,APT_low,gravel,0.21,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,APT_low,stone,0.16,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,APT_low,wood,0.011,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,APT_low,glass,0.008,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,APT_low,aluminum,0.004,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,APT_low,gypsum,0.011,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,APT_low,plastics,0.002,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,APT_mid,cement,0.38,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,APT_mid,steel,0.1,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,APT_mid,sand,0.63,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,APT_mid,gravel,0.24,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,APT_mid,stone,0.18,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,APT_mid,wood,0.012,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,APT_mid,glass,0.009,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,APT_mid,aluminum,0.005,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,APT_mid,gypsum,0.012,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,APT_mid,plastics,0.003,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,APT_high,cement,0.41,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,APT_high,steel,0.12,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,APT_high,sand,0.66,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,APT_high,gravel,0.26,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,APT_high,stone,0.19,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,APT_high,wood,0.013,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,APT_high,glass,0.01,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,APT_high,aluminum,0.005,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,APT_high,gypsum,0.012,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,APT_high,plastics,0.003,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,SFH,cement,0.33,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,SFH,steel,0.07,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,SFH,sand,0.58,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,SFH,gravel,0.2,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,SFH,stone,0.15,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,SFH,wood,0.013,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,SFH,glass,0.007,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,SFH,aluminum,0.004,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,SFH,gypsum,0.011,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,SFH,plastics,0.002,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,VILLA,cement,0.34,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,VILLA,steel,0.09,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,VILLA,sand,0.61,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,VILLA,gravel,0.22,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,VILLA,stone,0.17,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,VILLA,wood,0.014,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,VILLA,glass,0.009,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,VILLA,aluminum,0.004,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,VILLA,gypsum,0.011,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,VILLA,plastics,0.002,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,cement,0.36,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,steel,0.1,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,sand,0.62,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,gravel,0.23,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,stone,0.17,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,wood,0.014,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,glass,0.008,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,aluminum,0.004,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,gypsum,0.011,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,DUPLEX,plastics,0.002,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,COM,cement,0.42,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,COM,steel,0.15,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,COM,sand,0.67,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,COM,gravel,0.25,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,COM,stone,0.2,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,COM,wood,0.016,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,COM,glass,0.012,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,COM,aluminum,0.006,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,COM,gypsum,0.014,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,COM,plastics,0.004,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,IND,cement,0.37,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,IND,steel,0.16,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,IND,sand,0.61,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,IND,gravel,0.21,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,IND,stone,0.15,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,IND,wood,0.015,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,IND,glass,0.01,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,IND,aluminum,0.008,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,IND,gypsum,0.012,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,IND,plastics,0.004,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,EDU,cement,0.39,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,EDU,steel,0.11,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,EDU,sand,0.62,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,EDU,gravel,0.22,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,EDU,stone,0.17,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,EDU,wood,0.012,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,EDU,glass,0.008,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,EDU,aluminum,0.005,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,EDU,gypsum,0.013,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,EDU,plastics,0.003,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,HOS,cement,0.44,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,HOS,steel,0.13,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,HOS,sand,0.68,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,HOS,gravel,0.27,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,HOS,stone,0.21,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,HOS,wood,0.014,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,HOS,glass,0.011,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,HOS,aluminum,0.005,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,HOS,gypsum,0.014,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,HOS,plastics,0.003,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,cement,0.37,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,steel,0.09,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,sand,0.6,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,gravel,0.2,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,stone,0.22,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,wood,0.011,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,glass,0.009,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,aluminum,0.004,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,gypsum,0.011,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,MOSQUE,plastics,0.002,1200,1.2,1440.0,RASMI Fishman et al. 2024
+Lebanon,PARK,cement,0.0,130,1.4,182.0,RASMI Fishman et al. 2024
+Lebanon,PARK,steel,0.0,820,1.45,1189.0,RASMI Fishman et al. 2024
+Lebanon,PARK,sand,0.0,18,1.3,23.400000000000002,RASMI Fishman et al. 2024
+Lebanon,PARK,gravel,0.0,22,1.32,29.040000000000003,RASMI Fishman et al. 2024
+Lebanon,PARK,stone,0.0,56,1.34,75.04,RASMI Fishman et al. 2024
+Lebanon,PARK,wood,0.0,390,1.4,546.0,RASMI Fishman et al. 2024
+Lebanon,PARK,glass,0.0,1150,1.35,1552.5,RASMI Fishman et al. 2024
+Lebanon,PARK,aluminum,0.0,1850,1.3,2405.0,RASMI Fishman et al. 2024
+Lebanon,PARK,gypsum,0.0,50,1.2,60.0,RASMI Fishman et al. 2024
+Lebanon,PARK,plastics,0.0,1200,1.2,1440.0,RASMI Fishman et al. 2024

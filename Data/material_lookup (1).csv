@@ -1,0 +1,21 @@
+typology,material,intensity_kg_per_m2,unit_cost_usd_per_ton,carbon_kg_per_m2,source,notes
+APT,concrete,1150,85,500,Akin et al. 2025; RASMI; Heeren & Fishman 2019,"Gaza/Egypt apartment archetype, cross-checked with RASMI and Heeren & Fishman for Western Asia/North Africa. UN/WB/World Bank regionally validated 2022–2024. See Table S1/S3 in Akin et al."
+APT,steel,90,1050,,Akin et al. 2025; RASMI,Akin et al. Western Asia apartments; local prices (WB/Egypt 2024).
+APT,brick,300,70,,Heeren & Fishman 2019; Dai et al. 2024,"Standard regional block/brick intensity for midrise, see Heeren (JIE 2019, global compendium) and Dai (UK methods)."
+APT,sand_stone,650,25,,Regional Price List; Akin et al. 2025,"Standard Gaza/Egypt sand+gravel for concrete mix and block, regional market price (WB, 2024)."
+SFH,concrete,1000,85,450,Akin et al. 2025; RASMI,"Single family house, Levant/Egypt typology. See Table S3 in Akin et al.; matches Egypt/Palestine housing reports."
+SFH,steel,75,1050,,Akin et al. 2025; RASMI,"SFH, Levant region, matches RASMI and regional archetype files."
+SFH,brick,350,70,,Heeren & Fishman 2019,"SFH uses more block per m² (partition/outer wall), Heeren & Fishman 2019 regional mean."
+SFH,sand_stone,650,25,,Regional Price List,"Regional (Gaza, Egypt, Jordan) average for house construction."
+EDU,concrete,1200,85,550,Akin et al. 2025; School design guidelines (Egypt/UNESCO); Haberl et al. 2025,School buildings; includes higher structural requirements. UNESCO MENA guidelines and Akin et al. WANA region.
+EDU,steel,110,1050,,Akin et al. 2025; School design guidelines,"Reinforced concrete school, standard MENA/Levant, regional price from WB 2024."
+EDU,brick,340,70,,Heeren & Fishman 2019; Dai et al. 2024,"Partition and cladding for educational, matches UK/MENA school data."
+EDU,sand_stone,700,25,,Regional Price List,More sand/stone for floors/playground; regional price WB 2024.
+COM,concrete,1100,85,510,Akin et al. 2025; Heeren & Fishman 2019,"Commercial/community: Levant commercial buildings. Akin et al. 2025 WANA, validated with Heeren & Fishman."
+COM,steel,100,1050,,Akin et al. 2025; RASMI,"Regional commercial steel mean; Akin et al. 2025, RASMI."
+COM,brick,320,70,,Heeren & Fishman 2019,"Partition/cladding for community/commercial, regional mean."
+COM,sand_stone,650,25,,Regional Price List,"Commercial/community market price, Gaza/Egypt."
+IND,concrete,1300,85,600,Akin et al. 2025; Heeren & Fishman 2019; WB/UN 2024,"Industrial: Heavier structure, warehouse/factory archetypes. Matches WANA region, Akin et al., WB/UN estimates."
+IND,steel,120,1050,,Akin et al. 2025,"Industrial/warehouse steel demand, regional cost WB/Egypt 2024."
+IND,brick,310,70,,Heeren & Fishman 2019,"Partition/cladding for industrial, Heeren & Fishman 2019."
+IND,sand_stone,700,25,,Regional Price List,"Industry/warehouse, more sand/stone for pads, loading areas, WB 2024."

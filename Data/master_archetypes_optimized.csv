@@ -1,0 +1,10 @@
+typology,country,material,intensity_kg_per_m2,unit_cost_usd_per_ton,carbon_kg_per_m2,window_count,door_count,floor_min,floor_max,notes,source
+APT,Egypt,concrete,1150,85,500,8,2,4,6,"Egypt mid-rise, MI avg from Akin et al. 2025, RASMI",Akin et al. 2025; RASMI
+APT,Jordan,concrete,1200,90,550,8,2,4,7,"Jordan apartments, SSRN/RASMI",SSRN-5247212; material_lookup.csv
+APT,Lebanon,concrete,1300,105,600,9,2,5,8,"Lebanon archetype, RASMI/SSRN",RASMI; SSRN-5247212
+APT,Israel,concrete,1150,100,510,9,2,5,8,"Israel urban mid-rise, Dai et al./lookup",Dai et al. 2024; material_lookup.csv
+SFH,Gaza,concrete,1250,90,550,10,3,2,3,"Gaza/neighbor avg, all PDFs",building-materials_Gaza.pdf; RASMI; SSRN
+SFH,Egypt,concrete,950,85,430,10,3,2,3,"Egypt SFH, MI/price from SSRN, Akin, RASMI",SSRN-5247212; Akin et al. 2025
+COM,Egypt,steel,120,1250,800,12,3,2,4,"Commercial steel frame, Egypt, Akin/RASMI",Akin et al. 2025; RASMI
+EDU,Jordan,concrete,1400,100,640,20,4,2,4,"School, Jordan, MI/costs regionalized",material_lookup.csv; RASMI
+IND,Israel,concrete,1600,105,700,6,2,1,3,"Industry, Israel, regional MI/costs",Haberl et al. 2025
