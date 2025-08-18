@@ -1,32 +1,36 @@
-# AI-Enabled Low-Carbon Reconstruction in Conflict Zones: Engineering Scalable Solutions for Post-War Recovery - *A Case Study of the Gaza Strip*
-This repository supports the Master of Science thesis submitted by Youssef Alan Franci at King's College London, presented on August 4th, 2025.
+# AI-Enabled Low-Carbon Reconstruction in Conflict Zones  
+### *Engineering Scalable Solutions for Post-War Recovery: A Case Study of the Gaza Strip*
 
-Access is currently restricted to authorized assessors and relevant parties. The contents herein provide a concise overview of the methodologies and techniques employed throughout the project and serve to document the processes used to produce the final deliverables.
+This repository supports the Master of Science thesis by **Youssef Alan Franci**, submitted to **King's College London** and presented on **August 18, 2025**.
 
-## Data Collection and Processing
-### 1. Geospatial Tiling and KML Export of Satellite Imagery
-The script automates the segmentation of a high-resolution raster image of Gaza City into 500 uniformly sized geographic tiles, arranged in a 25×20 grid. Each tile is extracted based on calculated spatial bounds and represented as a polygon using the `shapely` and `geopandas` libraries. These polygons are reprojected into WGS84 (EPSG:4326) and exported as individual KML files, enabling seamless integration with mapping platforms such as Google Earth. This tiling process forms a foundational step in the damage assessment pipeline, allowing for localized analysis, efficient annotation, and targeted application of machine learning models across spatial subsets of the urban landscape.
-```
-Relevant Chapters
-Chapter 3
-```
+> ⚠️ **Access Notice:** Access is currently restricted to authorized assessors and relevant stakeholders.
 
-### 2. Spatiotemporal SAR Backscatter Differencing for Conflict-Induced Damage Mapping in the Gaza Strip
-This repository contains a Google Earth Engine script designed for automated damage detection in the Gaza Strip using Sentinel-1 synthetic aperture radar (SAR) imagery. The script compares pre- and post-conflict backscatter values to identify structural changes and debris accumulation resulting from armed conflict. Results are intended for use in AI-driven post-conflict reconstruction pipelines and sustainable rebuilding efforts.
+This project explores AI-driven, low-carbon reconstruction strategies for conflict-affected regions, using the Gaza Strip as a case study. The repository documents the methodology, data analysis, and technical processes behind the final thesis deliverables.
 
-### 3. Grid-Based Overpass Querying and KML Visualization for Gaza Urban Data
-This notebook automates the extraction of building footprint data from OpenStreetMap (OSM) for the Gaza Strip. It first generates a 30-zone spatial grid using KML for visualization and reference, then queries the Overpass API to extract building polygons for each zone. The output includes individual GeoJSON files per zone, suitable for use in QGIS, Google Earth Engine, or further geospatial analysis.
+---
 
-### 4. Temporal Filtering of UNOSAT Damage Assessment Data
-This notebook processes UNOSAT multi-date building damage data for the Gaza Strip by generating a 30-zone spatial grid for systematic querying and visual reference, and extracting the observation date closest to February 18, 2025 for each damage point. It automates the identification of the temporally nearest assessment from multiple `SensorDate` fields and optionally filters results within a specified time window. Outputs include a QGIS-compatible KML grid and a GeoJSON file containing filtered damage points for focused temporal analysis.
+## 📁 Contents
 
-### 5. Per-Building Synthetic Aperture Radar Feature Extraction for Conflict-Driven Damage Assessment Using Sentinel-1 and Google Earth Engine
-This Google Earth Engine (GEE) script extracts per-building synthetic aperture radar (SAR) features from Sentinel-1 data for conflict-driven damage assessment.
-It loads building footprints from a user-defined shapefile and computes pre- and post-event SAR backscatter statistics (VV and VH bands) for each building, based on two key periods aligned with Planet.com imagery:
-- **Pre-conflict**: August 2023
-- **Post-conflict**: February 2025
-For each building, the script calculates:
-- Mean VV and VH backscatter before and after the event
-- Delta values (`VV_delta`, `VH_delta`) representing change in structural response
-The final results are exported as a CSV to Google Drive for downstream machine learning or GIS-based reconstruction analysis.
+1. **📊 Figures**  
+   - All figures referenced throughout the thesis, organized for easy review and citation.
+
+2. **📓 Main Jupyter Notebook**  
+   - Core development notebook containing:
+     - Methodology design
+     - Data processing
+     - Analytical workflows
+     - Results and visualizations
+
+3. **🗂️ Datasets**  
+   - All datasets used, generated, and processed during the research:
+     - Raw data sources
+     - Cleaned and transformed datasets
+     - AI model inputs/outputs
+
+---
+
+## 📌 Notes
+
+- For questions or feedback related to this thesis, please contact the author or King's College London faculty.
+- If you are an assessor and require additional access or documentation, please refer to the internal communication provided.
 
